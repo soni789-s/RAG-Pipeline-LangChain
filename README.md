@@ -1,40 +1,37 @@
-Project Overview
+# 🧠 RAG Pipeline with LangChain & Ollama (Local Embeddings)
 
-This project demonstrates a complete Retrieval-Augmented Generation (RAG) pipeline using LangChain and Ollama.
-The system ingests data from multiple sources, splits it into meaningful chunks, generates embeddings locally using Ollama, and prepares the data for semantic search and question answering.
+## 📌 Project Overview
 
-The main goal of this project is to understand and implement:
+This project demonstrates a complete **Retrieval-Augmented Generation (RAG)** pipeline using **LangChain** and **Ollama**.  
+The system ingests data from multiple sources, splits it into meaningful chunks, generates embeddings locally using Ollama, and prepares the data for **semantic search and question answering**.
 
-Data ingestion
+The primary objective of this project is to understand and implement the core components of modern RAG systems while building a fully **offline and privacy-friendly** pipeline.
 
-Text chunking strategies
 
-Local embedding generation using Ollama
+## 🎯 Project Objectives
 
-Foundations of RAG systems
+The main goals of this project are to:
 
-🚀 Features
+- Understand different **data ingestion techniques** from structured and unstructured sources  
+- Apply effective **text chunking strategies** for better retrieval performance  
+- Generate **semantic embeddings locally using Ollama**  
+- Learn the foundational architecture of **Retrieval-Augmented Generation (RAG)** systems  
 
-📥 Data ingestion from multiple sources (PDF, TXT, HTML, JSON, APIs)
 
-✂️ Intelligent text chunking using LangChain splitters
+## 🚀 Features
 
-🔢 Local embedding generation using Ollama (nomic-embed-text)
+- 📥 Data ingestion from multiple sources (**PDF, TXT, HTML, JSON, APIs**)  
+- ✂️ Intelligent text chunking using **LangChain splitters**  
+- 🔢 Local embedding generation using **Ollama (nomic-embed-text)**  
+- 🗄️ Ready for vector database integration (**FAISS / Chroma**)  
+- 🔒 Fully **offline and privacy-preserving** (no cloud APIs required)  
 
-🗄️ Ready for vector database integration (FAISS / Chroma)
+## 🛠️ Tech Stack
 
-🔒 Fully offline and privacy-friendly (no cloud APIs required)
+- **Python 3.11**  
+- **LangChain**  
+- **LangChain Community**  
+- **Ollama** (Local LLM & Embeddings)  
+- **Nomic Embed / Sentence Transformers**  
+- Optional: **FAISS / Chroma** (Vector Databases)  
 
-🛠️ Tech Stack
-
-Python 3.11
-
-LangChain
-
-LangChain Community
-
-Ollama (Local LLM & Embeddings)
-
-Sentence Transformers / Nomic Embed
-
-Optional: FAISS / Chroma (Vector Databases)
