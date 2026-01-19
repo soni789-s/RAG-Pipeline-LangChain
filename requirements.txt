@@ -1,0 +1,16 @@
+pydantic
+langchain
+ipykernel
+langchain-community
+langchain
+pypdf
+bs4
+lxml
+jq
+requests
+wikipedia
+langchain_huggingface
+sentence_transformers
+hf_xet
+faiss-cpu
+langchain_chroma

@@ -1,0 +1,438 @@
+[
+ {
+  "Skip to main content": "We gratefully acknowledge support from the Simons Foundation, member institutions, and all contributors.Donate"
+ },
+ {
+  "Skip to main content": ">cs> arXiv:1706.03762 "
+ },
+ null,
+ {
+  "Skip to main content": "Help | Advanced Search"
+ },
+ {
+  "Skip to main content": "All fieldsTitleAuthorAbstractCommentsJournal referenceACM classificationMSC classificationReport numberarXiv identifierDOIORCIDarXiv author IDHelp pagesFull text"
+ },
+ {
+  "Skip to main content": "Search"
+ },
+ {
+  "Skip to main content": "GO"
+ },
+ null,
+ {
+  "Skip to main content": "quick links"
+ },
+ null,
+ {
+  "Skip to main content": "Login"
+ },
+ {
+  "Skip to main content": "Help Pages"
+ },
+ {
+  "Skip to main content": "About"
+ },
+ null,
+ {
+  "Skip to main content": "Computer Science > Computation and Language"
+ },
+ {
+  "Skip to main content": "arXiv:1706.03762 (cs) "
+ },
+ {
+  "Skip to main content": "[Submitted on 12 Jun 2017 (v1), last revised 2 Aug 2023 (this version, v7)]"
+ },
+ {
+  "Skip to main content": "Title:Attention Is All You Need"
+ },
+ {
+  "Skip to main content": "Authors:Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin"
+ },
+ null,
+ {
+  "Skip to main content": "View PDF    HTML (experimental)                Abstract:The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU. On the WMT 2014 English-to-French translation task, our model establishes a new single-model state-of-the-art BLEU score of 41.8 after training for 3.5 days on eight GPUs, a small fraction of the training costs of the best models from the literature. We show that the Transformer generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data. "
+ },
+ {
+  "Skip to main content": "Comments:",
+  "Column2": "15 pages, 5 figures"
+ },
+ {
+  "Skip to main content": "Subjects:",
+  "Column2": "Computation and Language (cs.CL); Machine Learning (cs.LG)"
+ },
+ {
+  "Skip to main content": "Cite as:",
+  "Column2": "arXiv:1706.03762 [cs.CL]"
+ },
+ {
+  "Skip to main content": " ",
+  "Column2": "(or               arXiv:1706.03762v7 [cs.CL] for this version) "
+ },
+ {
+  "Skip to main content": " ",
+  "Column2": "https:\/\/doi.org\/10.48550\/arXiv.1706.03762                                              Focus to learn more                                                                            arXiv-issued DOI via DataCite "
+ },
+ null,
+ {
+  "Skip to main content": "Submission history"
+ },
+ null,
+ {
+  "Skip to main content": "From: Llion Jones [view email] "
+ },
+ {
+  "Skip to main content": "[v1]        Mon, 12 Jun 2017 17:57:34 UTC (1,102 KB)"
+ },
+ {
+  "Skip to main content": "[v2]        Mon, 19 Jun 2017 16:49:45 UTC (1,125 KB)"
+ },
+ {
+  "Skip to main content": "[v3]        Tue, 20 Jun 2017 05:20:02 UTC (1,125 KB)"
+ },
+ {
+  "Skip to main content": "[v4]        Fri, 30 Jun 2017 17:29:30 UTC (1,124 KB)"
+ },
+ {
+  "Skip to main content": "[v5]        Wed, 6 Dec 2017 03:30:32 UTC (1,124 KB)"
+ },
+ {
+  "Skip to main content": "[v6]        Mon, 24 Jul 2023 00:48:54 UTC (1,124 KB)"
+ },
+ {
+  "Skip to main content": "[v7]        Wed, 2 Aug 2023 00:41:18 UTC (1,124 KB)"
+ },
+ {
+  "Skip to main content": "Full-text links: "
+ },
+ {
+  "Skip to main content": "Access Paper:"
+ },
+ {
+  "Skip to main content": "View a PDF of the paper titled Attention Is All You Need, by Ashish Vaswani and 7 other authors"
+ },
+ {
+  "Skip to main content": "View PDF"
+ },
+ {
+  "Skip to main content": "HTML (experimental)"
+ },
+ {
+  "Skip to main content": "TeX Source "
+ },
+ {
+  "Skip to main content": "view license"
+ },
+ {
+  "Skip to main content": "Current browse context: cs.CL"
+ },
+ {
+  "Skip to main content": "< prev          |            next > "
+ },
+ {
+  "Skip to main content": "new     |     recent     | 2017-06 "
+ },
+ {
+  "Skip to main content": "Change to browse by:         cs"
+ },
+ {
+  "Skip to main content": "cs.LG"
+ },
+ null,
+ {
+  "Skip to main content": "References & Citations"
+ },
+ null,
+ {
+  "Skip to main content": "NASA ADS"
+ },
+ {
+  "Skip to main content": "Google Scholar"
+ },
+ {
+  "Skip to main content": "Semantic Scholar"
+ },
+ null,
+ {
+  "Skip to main content": "123 blog links"
+ },
+ null,
+ {
+  "Skip to main content": "(what is this?) "
+ },
+ null,
+ {
+  "Skip to main content": "DBLP - CS Bibliography"
+ },
+ {
+  "Skip to main content": "listing | bibtex "
+ },
+ {
+  "Skip to main content": "Ashish Vaswani"
+ },
+ {
+  "Skip to main content": "Noam Shazeer"
+ },
+ {
+  "Skip to main content": "Niki Parmar"
+ },
+ {
+  "Skip to main content": "Jakob Uszkoreit"
+ },
+ {
+  "Skip to main content": "Llion Jones      …"
+ },
+ {
+  "Skip to main content": "export BibTeX citation    Loading..."
+ },
+ null,
+ {
+  "Skip to main content": "BibTeX formatted citation"
+ },
+ null,
+ {
+  "Skip to main content": "× "
+ },
+ {
+  "Skip to main content": "loading... "
+ },
+ {
+  "Skip to main content": "Data provided by: "
+ },
+ null,
+ {
+  "Skip to main content": "Bookmark"
+ },
+ {
+  "Skip to main content": "Bibliographic Tools "
+ },
+ {
+  "Skip to main content": "Bibliographic and Citation Tools"
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Bibliographic Explorer Toggle "
+ },
+ {
+  "Skip to main content": "Bibliographic Explorer (What is the Explorer?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Connected Papers Toggle "
+ },
+ {
+  "Skip to main content": "Connected Papers (What is Connected Papers?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Litmaps Toggle "
+ },
+ {
+  "Skip to main content": "Litmaps (What is Litmaps?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "scite.ai Toggle "
+ },
+ {
+  "Skip to main content": "scite Smart Citations (What are Smart Citations?) "
+ },
+ {
+  "Skip to main content": "Code, Data, Media "
+ },
+ {
+  "Skip to main content": "Code, Data and Media Associated with this Article"
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "alphaXiv Toggle "
+ },
+ {
+  "Skip to main content": "alphaXiv (What is alphaXiv?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Links to Code Toggle "
+ },
+ {
+  "Skip to main content": "CatalyzeX Code Finder for Papers (What is CatalyzeX?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "DagsHub Toggle "
+ },
+ {
+  "Skip to main content": "DagsHub (What is DagsHub?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "GotitPub Toggle "
+ },
+ {
+  "Skip to main content": "Gotit.pub (What is GotitPub?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Huggingface Toggle "
+ },
+ {
+  "Skip to main content": "Hugging Face (What is Huggingface?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Links to Code Toggle "
+ },
+ {
+  "Skip to main content": "Papers with Code (What is Papers with Code?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "ScienceCast Toggle "
+ },
+ {
+  "Skip to main content": "ScienceCast (What is ScienceCast?) "
+ },
+ {
+  "Skip to main content": "Demos "
+ },
+ {
+  "Skip to main content": "Demos"
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Replicate Toggle "
+ },
+ {
+  "Skip to main content": "Replicate (What is Replicate?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Spaces Toggle "
+ },
+ {
+  "Skip to main content": "Hugging Face Spaces (What is Spaces?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Spaces Toggle "
+ },
+ {
+  "Skip to main content": "TXYZ.AI (What is TXYZ.AI?) "
+ },
+ {
+  "Skip to main content": "Related Papers "
+ },
+ {
+  "Skip to main content": "Recommenders and Search Tools"
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Link to Influence Flower "
+ },
+ {
+  "Skip to main content": "Influence Flower (What are Influence Flowers?) "
+ },
+ {
+  "Skip to main content": false
+ },
+ {
+  "Skip to main content": "Core recommender toggle "
+ },
+ {
+  "Skip to main content": "CORE Recommender (What is CORE?) "
+ },
+ null,
+ {
+  "Skip to main content": "Author"
+ },
+ {
+  "Skip to main content": "Venue"
+ },
+ {
+  "Skip to main content": "Institution"
+ },
+ {
+  "Skip to main content": "Topic"
+ },
+ null,
+ null,
+ null,
+ {
+  "Skip to main content": "About arXivLabs "
+ },
+ {
+  "Skip to main content": "arXivLabs: experimental projects with community collaborators"
+ },
+ null,
+ {
+  "Skip to main content": "arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website."
+ },
+ {
+  "Skip to main content": "Both individuals and organizations that work with arXivLabs have embraced and accepted our values of openness, community, excellence, and user data privacy. arXiv is committed to these values and only works with partners that adhere to them."
+ },
+ {
+  "Skip to main content": "Have an idea for a project that will add value for arXiv's community? Learn more about arXivLabs."
+ },
+ null,
+ null,
+ {
+  "Skip to main content": "Which authors of this paper are endorsers? | Disable MathJax (What is MathJax?) "
+ },
+ null,
+ {
+  "Skip to main content": "About"
+ },
+ {
+  "Skip to main content": "Help"
+ },
+ null,
+ {
+  "Skip to main content": "Contact "
+ },
+ {
+  "Skip to main content": "Subscribe "
+ },
+ null,
+ {
+  "Skip to main content": "Copyright"
+ },
+ {
+  "Skip to main content": "Privacy Policy"
+ },
+ null,
+ {
+  "Skip to main content": "Web Accessibility Assistance"
+ },
+ {
+  "Skip to main content": "arXiv Operational Status "
+ }
+]
